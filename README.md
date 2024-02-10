@@ -1,0 +1,2 @@
+# GodotKritaPlugin
+Import .kra Image
